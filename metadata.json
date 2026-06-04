@@ -1,0 +1,59 @@
+{
+  "siteId": "online-furniture-shopping-pitfalls",
+  "generatedAt": "2026-06-04T11:36:06.684423",
+  "categories": [
+    "beginner-online-furniture-shopping-pitfalls",
+    "advanced-online-furniture-shopping-pitfalls",
+    "tips-online-furniture-shopping-pitfalls",
+    "history-online-furniture-shopping-pitfalls",
+    "trending-online-furniture-shopping-pitfalls",
+    "tutorials-online-furniture-shopping-pitfalls"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-online-furniture-shopping-pitfalls",
+      "category_name": "Beginner Online Furniture Shopping Pitfalls"
+    },
+    {
+      "category_slug": "advanced-online-furniture-shopping-pitfalls",
+      "category_name": "Advanced Online Furniture Shopping Pitfalls"
+    },
+    {
+      "category_slug": "tips-online-furniture-shopping-pitfalls",
+      "category_name": "Online Furniture Shopping Pitfalls Tips"
+    },
+    {
+      "category_slug": "history-online-furniture-shopping-pitfalls",
+      "category_name": "Online Furniture Shopping Pitfalls History"
+    },
+    {
+      "category_slug": "trending-online-furniture-shopping-pitfalls",
+      "category_name": "Trending Online Furniture Shopping Pitfalls"
+    },
+    {
+      "category_slug": "tutorials-online-furniture-shopping-pitfalls",
+      "category_name": "Online Furniture Shopping Pitfalls Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "online-furniture-shopping-pitfalls",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "sidebar",
+    "site_title": "Online Furniture Shopping Pitfalls Central",
+    "articles_per_row": 2
+  }
+}
